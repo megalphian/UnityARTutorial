@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityARTutorial", "UnityARTutorial.csproj", "{446AE8A9-872F-E14A-1E47-E75287F13A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityARTutorial.Editor", "UnityARTutorial.Editor.csproj", "{35B13C00-F53D-2892-3562-D1659D7B8221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{446AE8A9-872F-E14A-1E47-E75287F13A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446AE8A9-872F-E14A-1E47-E75287F13A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446AE8A9-872F-E14A-1E47-E75287F13A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446AE8A9-872F-E14A-1E47-E75287F13A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B13C00-F53D-2892-3562-D1659D7B8221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B13C00-F53D-2892-3562-D1659D7B8221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B13C00-F53D-2892-3562-D1659D7B8221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B13C00-F53D-2892-3562-D1659D7B8221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
